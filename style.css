@@ -1,0 +1,31 @@
+    body
+            {
+            text-align: center;
+            margin-top: 0%;
+            margin-bottom: 0%; /*Inspect the image first to see pixel borders*/
+            font-size: 60px; /*Sets the pixels*/  
+            }   
+    h1
+            {
+            text-align: center;
+            background-color: brown;
+            color: rgb(178, 230, 127);
+            text-decoration: underline;
+            margin-top: 0%;
+            margin-bottom: 0%; /*Inspect the image first to see pixel borders*/
+            font-size: 60px; /*Sets the pixels*/  
+            }  
+
+    h2
+            {
+            text-align: center;
+            background-color: brown;
+            color: chartreuse;
+            text-decoration: underline;
+            margin-top: 0%;
+            margin-bottom: 0%; /*Inspect the image first to see pixel borders*/
+            font-size: 60px; /*Sets the pixels*/  
+            }
+
+/*Inspect the image first to see pixel borders*/.container
+{       }
